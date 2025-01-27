@@ -1,5 +1,5 @@
 What's new
   * Show new version when available
   * Indicates whether it is possible to remove the device?
-  * Fix YouTube
+  * Fix other site
   * Fix something error.
