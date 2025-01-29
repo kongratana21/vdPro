@@ -1,4 +1,5 @@
 What's new
+  * Check the license key for this tool or not.
   * Add acast.com
   * Add thirteen.org
   * Fix other site
