@@ -1,5 +1,5 @@
 What's new
-  * Show new version when available
-  * Indicates whether it is possible to remove the device?
+  * Add acast.com
+  * Add thirteen.org
   * Fix other site
   * Fix something error.
