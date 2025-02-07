@@ -3,4 +3,5 @@ What's new
   * Add filter Min View, Max View.
   * Add download with Thread.
   * Add extract link from profile.
+  * Fix error update.
   * Fix something error.
