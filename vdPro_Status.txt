@@ -1,6 +1,6 @@
 What's new
-  * Check the license key for this tool or not.
-  * Add acast.com
-  * Add thirteen.org
-  * Fix other site
+  * Add option Like, View, View Online.
+  * Add filter Min View, Max View.
+  * Add download with Thread.
+  * Add extract link from profile.
   * Fix something error.
