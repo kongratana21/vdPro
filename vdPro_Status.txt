@@ -1,0 +1,5 @@
+ * What's new
+   + Check the license key for this tool or not.
+   + Add Fade In, Fade Out
+   + Add 40 new Khmer fonts.
+   + Fix something error
