@@ -1,6 +1,2 @@
  * What's new
-   + Fix Limit download to 999999
-   + Update Front-Number, End-Number
-   + Download with Single or Multiple Thread
-   + Show total downloaded
    + Fix something error
