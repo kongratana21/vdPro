@@ -1,2 +1,3 @@
  * What's new
+   + Fix Auto Number
    + Fix something error
