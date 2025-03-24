@@ -1,4 +1,3 @@
  * What's new
    + Fix TikTok truncate title
-   + Fix Twitter(X) truncate title
    + Fix something error
