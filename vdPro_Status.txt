@@ -1,4 +1,5 @@
  * What's new
+   + Fix Facebook reel title
    + Fix Remove @Mention and #Hashtag
    + Fix TikTok truncate title
    + Fix something error
