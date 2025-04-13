@@ -1,4 +1,3 @@
  * What's new
-   + Add recovery secret word
-   + Fix YouTube playlist
+   + Fix Add extractor
    + Fix something error
