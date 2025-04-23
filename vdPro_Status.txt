@@ -1,3 +1,3 @@
  * What's new
-   + Add Translate File Names (194 Language)
+   + Add Translate File Names and Text file (194 Language).
    + Fix something error
