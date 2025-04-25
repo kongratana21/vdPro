@@ -1,4 +1,4 @@
  * What's new
-   + Add Translate File Names and Text file (194 Language).
+   + [TikTok] Fix Cookies
    + [vk] Fix uploader
    + Fix something error
