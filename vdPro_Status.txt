@@ -1,6 +1,3 @@
  * What's new
-   + Add new (Auto Update Package)
-   + [Facebook] Fix title reel
-   + [X] Fix something
-   + [YouTube] Fix Token Provider Framework
+   + Fix Not Responding
    + Fix something error
