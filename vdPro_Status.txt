@@ -1,3 +1,4 @@
  * What's new
+   + Store and use cookies for each social network.
    + Auto update package
    + Fix something error
